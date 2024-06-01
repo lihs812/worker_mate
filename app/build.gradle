@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdkVersion 34
-    buildToolsVersion "34.0.0"
+    compileSdkVersion 31
+    buildToolsVersion "29.0.0"
 
     defaultConfig {
         applicationId "com.example.worker_mate"
         minSdkVersion 29
-        targetSdkVersion 34
+        targetSdkVersion 29
         versionCode 1
         versionName "1.0"
 
